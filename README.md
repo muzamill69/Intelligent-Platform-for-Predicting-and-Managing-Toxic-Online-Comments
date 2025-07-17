@@ -1,9 +1,3 @@
-# Comment-Toxicity-Prediction-App
-Deployed App Link : https://sanjeevk11-comment-toxicity-prediction-app-app-z20khk.streamlit.app/
-
-
-Demo Video Link : https://drive.google.com/file/d/1_fnVdqGFYLQM8hU91Yoz521-hN2xTji4/view?usp=sharing
-
 
 # Comment Toxicity Prediction App
 
@@ -32,9 +26,9 @@ To use the Comment Toxicity Prediction App, follow these steps:
 
 1. **Clone Repository:**
    ```bash
-   [git clone https://github.com/sanjeevk11/Comment-Toxicity-Prediction-App.git]
-   cd Comment-Toxicity-Prediction-App
-   ```
+  https://github.com/muzamill69/Intelligent-Platform-for-Predicting-and-Managing-Toxic-Online-Comments
+  ```
+
 
 2. **Install Dependencies:**
    ```bash
