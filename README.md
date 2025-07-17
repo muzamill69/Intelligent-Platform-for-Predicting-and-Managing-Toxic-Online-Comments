@@ -26,6 +26,7 @@ To use the Comment Toxicity Prediction App, follow these steps:
 
 1. **Clone Repository:**
    ```bash
+   git clone following url
   https://github.com/muzamill69/Intelligent-Platform-for-Predicting-and-Managing-Toxic-Online-Comments
   ```
 
